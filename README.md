@@ -1,4 +1,4 @@
-# Dependency Injection && Service Locator && Light Inject  
+# DI && Service Locator && Light Inject  
 
 Here you can see an implementation in c# of the Service Locator pattern. 
 
