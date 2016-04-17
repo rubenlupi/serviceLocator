@@ -1,0 +1,12 @@
+c:\users\rusanchezl\documents\visual studio 2015\Projects\DI-SL-LI-Test1\DI-SL-LI-Test1\bin\Debug\DI-SL-LI-Test1.exe.config
+c:\users\rusanchezl\documents\visual studio 2015\Projects\DI-SL-LI-Test1\DI-SL-LI-Test1\bin\Debug\DI-SL-LI-Test1.exe
+c:\users\rusanchezl\documents\visual studio 2015\Projects\DI-SL-LI-Test1\DI-SL-LI-Test1\bin\Debug\DI-SL-LI-Test1.pdb
+c:\users\rusanchezl\documents\visual studio 2015\Projects\DI-SL-LI-Test1\DI-SL-LI-Test1\bin\Debug\LightInject.dll
+c:\users\rusanchezl\documents\visual studio 2015\Projects\DI-SL-LI-Test1\DI-SL-LI-Test1\bin\Debug\LightInject.pdb
+c:\users\rusanchezl\documents\visual studio 2015\Projects\DI-SL-LI-Test1\DI-SL-LI-Test1\bin\Debug\LightInject.xml
+c:\users\rusanchezl\documents\visual studio 2015\Projects\DI-SL-LI-Test1\DI-SL-LI-Test1\obj\Debug\DI-SL-LI-Test1.csprojResolveAssemblyReference.cache
+c:\users\rusanchezl\documents\visual studio 2015\Projects\DI-SL-LI-Test1\DI-SL-LI-Test1\obj\Debug\DI-SL-LI-Test1.exe
+c:\users\rusanchezl\documents\visual studio 2015\Projects\DI-SL-LI-Test1\DI-SL-LI-Test1\obj\Debug\DI-SL-LI-Test1.pdb
+C:\git\DI\DI-SL-LI-Test1\DI-SL-LI-Test1\bin\Debug\DI-SL-LI-Test1.exe.config
+C:\git\DI\DI-SL-LI-Test1\DI-SL-LI-Test1\obj\Debug\DI-SL-LI-Test1.exe
+C:\git\DI\DI-SL-LI-Test1\DI-SL-LI-Test1\obj\Debug\DI-SL-LI-Test1.pdb
